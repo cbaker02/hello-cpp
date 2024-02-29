@@ -1,0 +1,7 @@
+{
+    "name": "Node.js",
+    "image": "mcr.microsoft.com/devcontainer/javascript-node:16-bullseye",
+    "features": {
+        "ghcr.io/devcontainer/features/docker-in-docker": {}
+    }
+}
